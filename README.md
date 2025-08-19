@@ -3,11 +3,14 @@
 ## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on COVID-19 datasets to uncover trends, patterns, and key insights. The analysis focuses on metrics such as confirmed cases, deaths, recoveries, and other related factors across geographic regions.
+
 The project uses Python with libraries like Pandas, Matplotlib, and Seaborn for data analysis and visualization. Results are presented through charts and summary reports.
 ## Objectives
 
 Understand the distribution of COVID-19 cases, deaths across regions.
-Identify patterns or relationships in the data, such as correlations between control measures and case numbers.
+
+Identify patterns or relationships in the data, such as correlations between control measures and case numbers. 
+
 Provide clear visualizations to support decision-making or further research.
 ## Data Sources
 
@@ -15,6 +18,8 @@ The data used in this project is sourced from publicly available repositories, s
 [Our World in Data](https://data.mendeley.com/datasets/82wn58ry9p/1)
 ## Tools Used
 
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Programming Language: Python.
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+
 Environment: Jupyter Notebook
