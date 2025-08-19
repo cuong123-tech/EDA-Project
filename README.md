@@ -1,4 +1,4 @@
-COVID-19 EDA Project
+#COVID-19 EDA Project
 
 Project Overview
 
@@ -12,7 +12,7 @@ Objectives
 
 
 
-Understand the distribution of COVID-19 cases, deathsacross regions.
+Understand the distribution of COVID-19 cases, deaths across regions.
 
 
 
