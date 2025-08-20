@@ -20,13 +20,13 @@ The data used in this project is sourced from publicly available repositories, s
 
 ### Data Cleaning:
 
-Run notebooks/01_data_cleaning.ipynb to preprocess the raw data and save cleaned datasets in data/processed/.
+Run cleaning.ipynb to preprocess the raw data and save cleaned datasets in data/processed/.
 ### Exploratory Data Analysis:
 
-Open notebooks/02_eda_analysis.ipynb to explore the data and identify trends or patterns.
+Open eda_analysis.ipynb to explore the data and identify trends or patterns.
 ### Visualizations:
 
-Use notebooks/03_visualizations.ipynb to generate charts and save them in results/figures/.
+Use visualizations.ipynb to generate charts and save them in results/figures/.
 ### Results
 
 Key findings and visualizations are saved in the results/ directory:
