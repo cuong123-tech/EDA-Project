@@ -41,3 +41,29 @@ Programming Language: Python.
 Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 
 Environment: Jupyter Notebook
+## Installation Instructions
+1. Clone the repository to your local machine:
+
+git clone https://github.com/cuong123-tech/EDA-Project.git
+
+2. Navigate to the project directory:
+
+cd EDA-Project
+
+3. Install the dependencies:
+
+pip install -r requirements.txt
+
+## How to Run the Project
+
+1. Start the server:
+
+python app.py
+
+2. Open your browser and visit:
+   
+texthttp://localhost:5000
+
+
+
+
