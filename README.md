@@ -52,7 +52,6 @@ cd EDA-Project
 
 3.Install the dependencies:
 
-pip install -r requirements.txt
 
 ## How to Run the Project
 
